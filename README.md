@@ -3,6 +3,9 @@
 ## Github URL
 https://github.com/asaldana1108/team-profile-generator
 
+## Walkthrough Video
+https://drive.google.com/file/d/1zjaAci8_WimK0DKb4uXKJCFEo5fua8vj/view 
+
 ## Description 
 This app generates a webpage that displays a team's basic info captured through user prompts. 
 
